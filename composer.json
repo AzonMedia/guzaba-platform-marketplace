@@ -1,3 +1,8 @@
 {
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+        "guzaba-platform/guzaba-platform-installer": "dev-master",
+        "guzaba-platform/guzaba-platform": "dev-master",
+        "guzaba-platform/request-caching": "dev-master"
+    }
 }
